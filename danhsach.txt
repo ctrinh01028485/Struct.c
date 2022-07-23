@@ -1,0 +1,4 @@
+ID: 19502231		Name: ho cong trinh		Marks: 7.5	Rank: B
+ID: 19502233		Name: tran minh tan		Marks: 9.7	Rank: A
+ID: 19502235		Name: nguyen duy khang		Marks: 6.7	Rank: B
+ID: 56324536		Name: nguyen ngoc quynh		Marks: 1.0	Rank: D

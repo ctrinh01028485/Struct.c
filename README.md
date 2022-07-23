@@ -1,0 +1,1 @@
+MSSV phải là kí tự số, không có các kí tự khác
